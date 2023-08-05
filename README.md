@@ -1,20 +1,21 @@
 # Digital Twin Forest
 
-Developer Names:
+## Developer Names:
 1. Yichen Jiang
 2. Bowen Zhang
 3. Jiacheng Wu
 4. Junhong Chen
 5. Tingyu Shi
 
-Date of project start: 2022, Sept, 14
+## Date of project start: 2022, Sept, 14
 
-This project is: Digital Twin Forest
+## Project Name: Digital Twin Forest
 
-The folders and files for this project are as follows:
+## The folders and files for this project are as follows:
+* docs - Documentation for the project 
+* refs - Reference material used for the project, including papers 
+* src - Source code 
+* test - Test cases 
+* Build - Final Version of Unity Build
 
-docs - Documentation for the project 
-refs - Reference material used for the project, including papers 
-src - Source code 
-test - Test cases 
-etc.
+## [Project Demo Video](https://www.youtube.com/watch?app=desktop&v=r75mvbEOSkQ)
